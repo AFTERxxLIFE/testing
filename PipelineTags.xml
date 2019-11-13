@@ -1,0 +1,272 @@
+<Tags>
+   <Tag name="Pipeline" path="_types_" type="UDT_DEF">
+      <Property name="Value"/>
+      <Property name="DataType">2</Property>
+      <Parameters>
+      </Parameters>
+      <Tag name="Pipeline_Buyer" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Buyer_Address_1" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Buyer_Address_2" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Buyer_Address_3" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Buyer_Address_city" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Buyer_Address_State" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Buyer_Address_Zip" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Buyer_Product_List" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Buyer_Volumes" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Capacity" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Capacity_Compression" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Category" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Client_Count" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="Pipeline_Code" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Contract" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Downtime_Downtime" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Downtime_Drayagecosts" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Downtime_ForceMajeure" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Downtime_TechnicalBU" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Downtime_UtilityInterrution" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Energy_Actual_Rate" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Energy_Current_Cost" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Energy_Current_Rate" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Energy_Estimated_Rate" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Flow_Rate_Input" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="Pipeline_Flow_Rate_LAH" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Flow_Rate_LAHH" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Flow_Rate_LAL" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Flow_Rate_LALL" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Flow_Rate_Max" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Flow_Rate_Min" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Group" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Location" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Max" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Name" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Name_Display" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Pressure_Input" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="Pipeline_Pressure_LAH" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Pressure_LAHH" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Pressure_LAL" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Pressure_LALL" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Pressure_Max" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Pressure_Min" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Product" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Purity_Input" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="Pipeline_Purity_LAH" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Purity_LAHH" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Purity_LAL" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Purity_LALL" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Purity_Max" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Purity_Min" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Seller" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Status" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="Pipeline_Status_Flow_Input" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="Pipeline_Taxonomy" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_Temp_Input" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="Pipeline_Temp_LAH" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Temp_LAHH" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Temp_LAL" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Temp_LALL" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Temp_Max" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Temp_Min" path="" type="DB">
+         <Property name="Value">0.0</Property>
+         <Property name="DataType">4</Property>
+      </Tag>
+      <Tag name="Pipeline_Type" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Pipeline_UOM" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">7</Property>
+      </Tag>
+      <Tag name="Plant_Pipeline" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+      <Tag name="Status_Monitoring" path="" type="DB">
+         <Property name="Value">0</Property>
+         <Property name="DataType">2</Property>
+      </Tag>
+   </Tag>
+</Tags>
